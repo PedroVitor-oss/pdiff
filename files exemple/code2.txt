@@ -1,5 +1,10 @@
-#incldue <stdio.h>
+#include <stdio.h>
 
-void main(){
-    printf("meu primeiro programa em c");
+void greet() {
+    printf("ola mundo");
+}
+
+int main() {
+    greet();
+    return 0;
 }
