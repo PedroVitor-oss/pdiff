@@ -1,5 +1,5 @@
-l1
-l2
-l3
-l3.2
-l4
+#incldue <stdio.h>
+
+void main(){
+    printf("meu primeiro programa em c");
+}
